@@ -20,7 +20,7 @@ setuptools.setup(name='oncore',
       platforms=['POSIX'],
       packages=setuptools.find_packages(),
       #entry_points={},
-      scripts=['scripts/tsa'],
+      #scripts=['scripts/tsa'],
       classifiers=[
           'Environment :: Console',
           'Intended Audience :: Developers',
